@@ -51,8 +51,6 @@
 
 参考：[Class Activation Mapping](http://cnnlocalization.csail.mit.edu/)
 
-![](cam.jpg)
-
 ## 评估
 
 你的项目会由优达学城项目评审师依照[机器学习毕业项目要求](https://review.udacity.com/#!/rubrics/273/view)来评审。请确定你已完整的读过了这个要求，并在提交前对照检查过了你的项目。提交项目必须满足所有要求中每一项才能算作项目通过。
