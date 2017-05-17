@@ -2,9 +2,6 @@
 
 [Distracted Driver Detection](https://www.kaggle.com/c/state-farm-distracted-driver-detection)
 
-![](driver.gif)
-
-
 ## 描述
 
 使用深度学习方法检测驾驶员的状态。
